@@ -22,7 +22,7 @@
     "start": "node backend/services.js",
     "dev": "nodemon backend/services.js"
   },
-  "author": "Vikas Verma",
+  "author": "Reshav Sharma",
   "license": "ISC",
   "description": "E-commerce website"
 }
